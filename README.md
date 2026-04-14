@@ -66,6 +66,30 @@ Smart Process Scheduling and Monitoring System/
 
 ---
 
+## Demo Screenshots
+
+Below are sample views from the Streamlit dashboard and order workflow.
+
+![Add New Order](Demo/addneworder.png)
+
+![Control Menu](Demo/controlmenu.png)
+
+![Dashboard Screenshot 1](Demo/image1.png)
+
+![Dashboard Screenshot 2](Demo/image2.png)
+
+![Dashboard Screenshot 3](Demo/image3.png)
+
+![Dashboard Screenshot 4](Demo/image4.png)
+
+![Dashboard Screenshot 5](Demo/image5.png)
+
+![Dashboard Screenshot 6](Demo/image6.png)
+
+🎥 **Demo Video:** [Watch on Drive](https://drive.google.com/file/d/1uMEgoSd3OrIWdRaorxuyQyuEU4NuI2_z/view?usp=sharing)
+
+---
+
 ## Modeled Manufacturing Process
 
 - Laser Cutting
